@@ -1,0 +1,5 @@
+{
+  "name": "ImagesRestore",
+  "description": "Ứng dụng phục chế và tô màu ảnh cũ sử dụng AI, phong cách Apple tối giản.",
+  "requestFramePermissions": []
+}
